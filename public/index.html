@@ -1,0 +1,14 @@
+<div class="chat-container">
+    <div id="chat-messages" class="chat-messages"></div>
+    <div class="chat-input">
+        <input type="text" id="message-input" placeholder="Écrivez votre message...">
+        <button id="send-message">Envoyer</button>
+    </div>
+</div>
+
+<script src="http://localhost:3000/socket.io/socket.io.js"></script>
+<script src="/bookshare_chat/js/chat.js"></script>
+<script>
+    // Initialisez le chat avec les IDs appropriés
+    initChat(bookId, currentUserId, receiverId);
+</script>
