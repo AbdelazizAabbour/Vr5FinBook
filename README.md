@@ -42,7 +42,6 @@ Offrir une solution pratique et moderne pour :
 
 ## 👨‍💻 Auteur
 **AABBOUR Abdelaziz**  
-Étudiant(e) en développement web  
 📧 aabbourabdelaziz@gmail.com
 
 ---
